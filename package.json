@@ -1,0 +1,17 @@
+{
+  "name": "svl-discord-bot",
+  "version": "1.0.0",
+  "description": "Swedish Virtual League Discord Bot",
+  "main": "botsvl 2.js",
+  "scripts": {
+    "start": "node \"botsvl 2.js\""
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.52",
+    "discord.js": "^14.14.1",
+    "mongodb": "^6.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
