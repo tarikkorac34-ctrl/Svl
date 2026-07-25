@@ -1,0 +1,12 @@
+{
+  "name": "svl-bot",
+  "version": "1.0.0",
+  "main": "Botsvl.js",
+  "scripts": {
+    "start": "node \"Botsvl.js\""
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "mongodb": "^6.3.0"
+  }
+}
